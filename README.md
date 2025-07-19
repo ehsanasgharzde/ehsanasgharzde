@@ -106,10 +106,7 @@ Computer Engineering Student specializing in Artificial Intelligence and Machine
 <img src="https://img.shields.io/badge/CS50-CC0000?style=for-the-badge&logo=harvard&logoColor=white" />
 </div>
 
-
 ---
-
-
 
 ## GitHub Statistics
 <div align="center">
@@ -126,7 +123,18 @@ Computer Engineering Student specializing in Artificial Intelligence and Machine
 
 ---
 
+## Recent GitHub Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
+---
+
+## Contribution Snake Game
+<div align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
 
 ## Research & Projects
 
@@ -143,12 +151,9 @@ Computer Engineering Student specializing in Artificial Intelligence and Machine
 
 ---
 
-
-
 ## Research Contributions
 <div align="">
 **Technical Expertise**
-- Deep Neural Networks for Medical Imaging
 - Advanced Statistical Modeling and Analysis
 - Computer Vision Algorithm Development
 - Machine Learning Pipeline Optimization
@@ -157,30 +162,22 @@ Computer Engineering Student specializing in Artificial Intelligence and Machine
 
 ---
 
-
-
 ## Activity Graph
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ehsanasgharzde&bg_color=20232a&color=61dafb&line=61dafb&point=ffffff&area=true&hide_border=true" />
-
 </div>
 
 ---
-
-
 
 ## Achievements
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=ehsanasgharzde&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
-
 </div>
 
 ---
 
-
-
 ## Professional Focus
-<div align="">
+<div>
   
 **Specialization Areas:**
 Computer Vision | Deep Learning | Predictive Analytics
@@ -190,9 +187,11 @@ Advanced Plug--and-Play Vision System (Multi-Purpose)
 
 **Open to Collaboration:**  
 Research projects in AI/ML, academic partnerships, and innovative deep learning applications
+</div>
 
 ---
 
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=ehsanasgharzde&style=for-the-badge&color=blue" alt="Profile Views" />
 
 </div>
