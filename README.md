@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 # Hey, It's e!
 
