@@ -19,7 +19,7 @@ AI/ML Engineer specializing in machine learning, computer vision, and LLM fine-t
 
 ### Tech Stack
 
-`Python` `PyTorch` `Hugging Face` `OpenCV` `scikit-learn` `LangChain` `Docker` `Git`
+`C/CPP` `Python` `PyTorch` `Hugging Face` `OpenCV` `scikit-learn` `LangChain` `Docker` `Git`
 
 ### Selected Projects
 
