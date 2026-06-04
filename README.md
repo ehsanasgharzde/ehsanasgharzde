@@ -1,8 +1,8 @@
 # Ehsan Asgharzadeh
 
-**AI/ML Engineer** — Python · Deep Learning · Computer Vision · LLMs
+**AI/ML Engineer** — Python, C/CPP · Deep Learning · Computer Vision · LLMs
 
-Tehran, Iran &nbsp;•&nbsp; [ehsanasgharzadeh.asg@gmail.com](mailto:ehsanasgharzadeh.asg@gmail.com) &nbsp;•&nbsp; [ehsanasgharzde.ir (down)](https://www.ehsanasgharzde.ir) &nbsp;•&nbsp; 💼 [LinkedIn](https://linkedin.com/in/ehsanasgharzde)
+Tehran, Iran &nbsp;•&nbsp; [ehsanasgharzadeh.asg@gmail.com](mailto:ehsanasgharzadeh.asg@gmail.com) &nbsp;•&nbsp; [ehsanasgharzde.ir (down)](https://www.ehsanasgharzde.ir) &nbsp;•&nbsp; [LinkedIn](https://linkedin.com/in/ehsanasgharzde)
 
 ---
 
@@ -14,12 +14,12 @@ AI/ML Engineer specializing in machine learning, computer vision, and LLM fine-t
 
 - **Deep Learning** — CNNs, RNNs, Transformers, ViTs
 - **Computer Vision** — Detection, segmentation, monocular depth estimation
-- **Generative AI / LLMs** — Fine-tuning, RAG, LoRA/PEFT, LangChain, LangGraph
+- **Generative AI / LLMs** — Fine-tuning, RAG, LangChain
 - **MLOps** — Docker, MLflow, W&B, model deployment
 
 ### Tech Stack
 
-`Python` `PyTorch` `TensorFlow` `Hugging Face` `OpenCV` `scikit-learn` `LangChain` `Docker` `PostgreSQL` `FAISS` `Git`
+`Python` `PyTorch` `Hugging Face` `OpenCV` `scikit-learn` `LangChain` `Docker` `Git`
 
 ### Selected Projects
 
